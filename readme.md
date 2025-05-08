@@ -2,4 +2,4 @@
 
 lets see 
 
-conslose.log("mukul")
+console.log("mukul")
